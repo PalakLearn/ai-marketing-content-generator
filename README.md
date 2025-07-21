@@ -27,12 +27,9 @@ Automate the creation, approval, and distribution of marketing content (emails, 
 - Reusable flows across multiple campaigns and formats
 
 ##  Files
+<img width="1535" height="846" alt="Screenshot 2025-07-21 165551" src="https://github.com/user-attachments/assets/80ff20a5-761f-449b-8d8a-2599c6c0c401" />
 
-- `prompt-templates/openai-prompt.txt`  
-- `prompt-templates/vertex-prompt.txt`  
-- `power-automate/flow-json-export.json`  
-- `sample-output/ai-email-example.txt`  
-- `flow-diagram.png`
+
 
 ## 📸 Screenshots
 
