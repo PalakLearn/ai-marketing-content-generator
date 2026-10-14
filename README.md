@@ -46,4 +46,4 @@ Automate the creation, approval, and distribution of marketing content (emails, 
 
 ## ✍️ Author
 Palak Chaturvedi  
-[LinkedIn](https://linkedin.com/in/palak-chaturvedi) | [Portfolio](https://palakchaturvedi.notion.site)
+[LinkedIn](https://www.linkedin.com/in/palak-chaturvedi-a25323211/) | [Portfolio](https://palakchaturvedi.notion.site)
